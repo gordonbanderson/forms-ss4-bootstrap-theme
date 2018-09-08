@@ -1,0 +1,16 @@
+{
+    "name": "suilven/forms-ss4-bootstrap-theme",
+    "description": "Forms templates for SS4, bootstrap 4",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme", "suilven", "bootstrap", "forms"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gordon Anderson"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=4.0"
+    }
+}
